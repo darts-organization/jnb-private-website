@@ -1,7 +1,7 @@
 import nodemailer from "nodemailer";
 
-// const RECIPIENT = "concierge@jnbprivate.com";
-const RECIPIENT = "studio.lucapizzarelli@gmail.com";
+const RECIPIENT = "concierge@jnbprivate.com";
+// const RECIPIENT = "studio.lucapizzarelli@gmail.com";
 
 export async function POST(request: Request) {
   const body = await request.json();
