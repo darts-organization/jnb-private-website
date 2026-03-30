@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "JNB Private — The Private Side of Value",
+    "description": "Una società indipendente che opera come family office, specializzata nella consulenza ultra-prime e nella gestione integrata del patrimonio."
+  },
+  "nav": {
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "philosophy": "Filosofia",
+    "leadership": "Leadership",
+    "contact": "Richiedi Accesso",
+    "back": "Torna al sito"
+  },
+  "hero": {
+    "tagline": "Discrezione. Visione. Crescita.",
+    "headline": "The Private Side of Value",
+    "description": "Una società indipendente che opera come family office, specializzata nella consulenza ultra-prime e nella gestione integrata del patrimonio.",
+    "cta": "Richiedi Accesso"
+  },
+  "about": {
+    "label": "Chi Siamo",
+    "title": "Chi Siamo",
+    "description": "JNB Private è una società di consulenza che opera come family office indipendente, dedicata a un numero ristretto di clienti e mandati selezionati.",
+    "description2": "Fondata su decenni di esperienza strategica, operiamo con metodo, disciplina e una prospettiva di lungo termine. Ogni operazione è il risultato di relazioni costruite nel tempo, di un processo che unisce analisi approfondita, giudizio e visione strategica.",
+    "description3": "Affianchiamo investitori, family office e controparti selezionate in transazioni di alto valore e operazioni complesse, con un approccio diretto e una gestione estremamente riservata.",
+    "description4": "JNB Private non è intermediazione nel senso tradizionale.",
+    "description5": "È accesso, struttura e controllo.",
+    "locations": "Firenze · Londra · New York",
+    "network": "Rete internazionale nei principali mercati UHNWI"
+  },
+  "coreFocus": {
+    "label": "Focus Principale",
+    "title": "Consulenza Immobiliare",
+    "subtitle": "Real estate, la nostra essenza.",
+    "description": "Curiamo e strutturiamo opportunità nei settori residenziale, commerciale e hospitality, sia sul mercato che fuori mercato.",
+    "services": {
+      "tracking": "Monitoraggio della Performance e Reportistica del Portafoglio",
+      "scouting": "Ricerca Privata e Scouting Fuori Mercato",
+      "postSale": "Coordinamento dei Servizi Post-Vendita",
+      "partners": "Partner Legali, Fiscali e Finanziari"
+    }
+  },
+  "realEstate": {
+    "label": "Cosa Facciamo",
+    "title": "Brokeraggio Immobiliare",
+    "description": "Consulenza immobiliare residenziale premium, per proporre spazi abitativi eccezionali per una clientela selezionata in Italia e nel mondo.",
+    "residential": {
+      "title": "Consulenza Residenziale",
+      "description": "Selezione di ville e appartamenti ultra-prime, sul mercato e fuori mercato, nelle principali destinazioni."
+    },
+    "lifestyle": {
+      "title": "Integrazione con lo Stile di Vita",
+      "description": "Abbiniamo con precisione gli immobili alla vita, ai valori e alle aspirazioni a lungo termine dei clienti."
+    },
+    "discreet": {
+      "title": "Transazioni Discrete",
+      "description": "Rappresentanza riservata e supporto completo in ogni fase, dalla ricerca alla chiusura e al post-vendita."
+    }
+  },
+  "aviation": {
+    "label": "Cosa Facciamo",
+    "title": "Brokeraggio Aeronautico",
+    "description": "Offriamo consulenza sull'acquisizione, la proprietà e la gestione di aeromobili privati eccezionali, accompagnando i clienti in ogni fase del ciclo di vita dell'aeromobile.",
+    "services": {
+      "acquisition": "Consulenza per l'Acquisizione e la Vendita di Aerei Privati",
+      "intelligence": "Intelligence del Mercato Aeronautico Globale",
+      "offMarket": "Opportunità Aeronautiche Fuori Mercato",
+      "strategy": "Strategia e Strutturazione della Proprietà",
+      "oversight": "Supervisione dell'Aeromobile Post-Acquisto"
+    }
+  },
+  "yacht": {
+    "label": "Cosa Facciamo",
+    "title": "Brokeraggio Nautico",
+    "description": "Offriamo una supervisione di livello istituzionale per yacht e asset marittimi di alto valore, garantendo che le imbarcazioni mantengano il loro valore, performino al meglio e restino asset eccezionali nel tempo.",
+    "services": {
+      "acquisition": "Consulenza per l'Acquisizione e la Vendita di Yacht",
+      "intelligence": "Intelligence di Mercato e Analisi della Valutazione",
+      "offMarket": "Ricerca di Yacht Fuori Mercato",
+      "strategy": "Strutturazione dell'Investimento e della Proprietà dello Yacht",
+      "management": "Gestione dello Yacht Post-Acquisto"
+    }
+  },
+  "assetManagement": {
+    "label": "Cosa Facciamo",
+    "title": "Gestione Integrata del Patrimonio",
+    "description": "Offriamo una supervisione di livello istituzionale per portafogli complessi e di alto valore, garantendo che gli asset performino, si valorizzino e durino nel tempo.",
+    "acquisition": {
+      "title": "Consulenza per Acquisizione e Cessione",
+      "description": "Accompagniamo ogni acquisizione e uscita con precisione."
+    },
+    "repositioning": {
+      "title": "Riposizionamento e Rendimento",
+      "description": "Riposizionamento attivo per massimizzare i rendimenti."
+    },
+    "legacy": {
+      "title": "Pianificazione degli Asset Patrimoniali",
+      "description": "Preserviamo e strutturiamo gli asset attraverso le generazioni."
+    },
+    "postAcquisition": {
+      "title": "Gestione Post-Vendita",
+      "description": "Proteggiamo e ottimizziamo il tuo portafoglio nel lungo termine."
+    }
+  },
+  "investment": {
+    "label": "Filosofia d'Investimento",
+    "title": "Dalla Transazione al Patrimonio",
+    "description": "Collaboriamo con family office, investitori indipendenti e fondi per identificare e strutturare co-investimenti in asset patrimoniali, unendo i dati al ritmo del cambiamento economico e generazionale.",
+    "longTerm": {
+      "title": "Orientato al Lungo Termine e al Valore",
+      "description": "Focus disciplinato su asset duraturi."
+    },
+    "analysis": {
+      "title": "Analisi di Mercato e degli Investimenti",
+      "description": "Ottimizzazione attiva della performance e dei rendimenti."
+    },
+    "governance": {
+      "title": "Governance Trasparente",
+      "description": "Reportistica trasparente e responsabilità fiduciaria."
+    },
+    "alignment": {
+      "title": "Allineamento degli Obiettivi",
+      "description": "Obiettivi e interessi pienamente allineati."
+    }
+  },
+  "values": {
+    "label": "I Nostri Valori",
+    "title": "Fondati su discrezione, visione e crescita.",
+    "description": "JnB Private opera come piattaforma privata fondata su discrezione, visione e crescita. Accettiamo incarichi esclusivamente tramite presentazione, garantendo a ogni relazione la nostra piena attenzione strategica.",
+    "discretion": {
+      "title": "Discrezione",
+      "description": "Ogni mandato è gestito con assoluta riservatezza. I tuoi affari restano tuoi."
+    },
+    "vision": {
+      "title": "Visione",
+      "description": "Lungimiranza che trasforma l'opportunità in strategia."
+    },
+    "growth": {
+      "title": "Crescita",
+      "description": "Preserviamo e facciamo crescere ciò che conta di più, tra generazioni e mercati."
+    }
+  },
+  "philosophy": {
+    "label": "La Nostra Filosofia",
+    "title": "La nostra distinzione risiede nella nostra struttura e nella nostra filosofia.",
+    "independence": {
+      "title": "Indipendenza",
+      "description": "Consulenza a capitale privato, senza conflitti di interesse."
+    },
+    "enduring": {
+      "title": "Duraturo nel Valore",
+      "description": "Dall'acquisizione alla strategia a lungo termine."
+    },
+    "focus": {
+      "title": "Focus",
+      "description": "Nessuna priorità in conflitto."
+    },
+    "alignment": {
+      "title": "Allineamento",
+      "description": "I nostri interessi sono i tuoi."
+    },
+    "institutional": {
+      "title": "Istituzionale nella Disciplina",
+      "description": "Reportistica, governance, fiducia."
+    }
+  },
+  "leadership": {
+    "label": "Il Nostro Team di Leadership",
+    "title": "Supportati da oltre 20 anni di esperienza e più di €750M in transazioni concluse con successo.",
+    "jennifer": {
+      "name": "Jennifer G. Giraldi",
+      "role": "Managing Partner",
+      "description": "Leader visionaria con oltre un decennio in prima linea nel real estate di lusso italiano. Riconosciuta da Forbes Leader come una delle voci più influenti del settore in Italia."
+    },
+    "yves": {
+      "name": "Yves J. Besançon",
+      "role": "Managing Partner",
+      "description": "Specialista in hospitality e real estate ultra-prime. Prospettiva globale, profondità operativa e relazioni fiduciarie con i clienti costruite nei mercati internazionali."
+    }
+  },
+  "presence": {
+    "label": "La Nostra Presenza Globale",
+    "title": "I Nostri Uffici",
+    "florence": {
+      "city": "Firenze",
+      "address": "Corso Italia, 2",
+      "detail": "50123 Firenze (FI)",
+      "country": "Italia"
+    },
+    "london": {
+      "city": "Londra",
+      "address": "106, Brompton Road — 4th Floor",
+      "detail": "SW31JJ, Montpellier House",
+      "country": "London (UK)"
+    },
+    "newYork": {
+      "city": "New York",
+      "address": "134 West 26th — Suite 1201",
+      "detail": "10001 New York (NY)",
+      "country": "United States"
+    }
+  },
+  "cta": {
+    "label": "Richiedi Accesso",
+    "title": "Inizia la Conversazione",
+    "description": "Operiamo esclusivamente tramite presentazione. Per scoprire come JNB Private può servire i tuoi interessi, compila il modulo qui sotto.",
+    "firstNamePlaceholder": "Nome",
+    "lastNamePlaceholder": "Cognome",
+    "emailPlaceholder": "Indirizzo Email",
+    "messagePlaceholder": "Il Tuo Messaggio",
+    "submit": "Invia Messaggio",
+    "sending": "Invio in corso…",
+    "success": "Messaggio inviato con successo. Ti ricontatteremo a breve.",
+    "error": "Qualcosa è andato storto. Riprova o scrivici direttamente via email."
+  },
+  "footer": {
+    "tagline": "Discrezione. Visione. Crescita.",
+    "legal": "JNB Private · Corso Italia, 2, 50123 Firenze (FI) · C.F/P.Iva 07519920487",
+    "rights": "Tutti i diritti riservati.",
+    "privacy": "Informativa sulla Privacy"
+  },
+
+  "privacy": {
+    "label": "Legale",
+    "title": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento: Marzo 2026",
+    "intro": "JNB Private (\"noi\" o \"nostro\") si impegna a proteggere la privacy e la riservatezza dei propri clienti, partner e visitatori del sito web. La presente Informativa sulla Privacy descrive le modalità di raccolta, utilizzo e protezione dei dati personali in conformità al Regolamento (UE) 2016/679 (GDPR) e alla normativa italiana vigente.",
+    "controller": {
+      "title": "1. Titolare del Trattamento",
+      "content": "Il titolare del trattamento dei dati è JNB Private, con sede legale in Corso Italia, 2, 50123 Firenze (FI), Italia. C.F/P.Iva 07519920487.\n\nPer qualsiasi richiesta relativa alla protezione dei dati, contattaci all'indirizzo: concierge@jnbprivate.com"
+    },
+    "dataCollected": {
+      "title": "2. Dati Raccolti",
+      "content": "Possiamo raccogliere i seguenti dati personali:\n\n• Informazioni di contatto (nome, indirizzo email) quando ci contatti via email\n• Dati tecnici (indirizzo IP, tipo di browser, informazioni sul dispositivo) raccolti automaticamente tramite cookie essenziali\n• Dati di navigazione (pagine visitate, tempo di permanenza) per finalità di funzionamento del sito"
+    },
+    "purpose": {
+      "title": "3. Finalità e Base Giuridica",
+      "content": "I tuoi dati personali sono trattati per le seguenti finalità:\n\n• Rispondere alle tue richieste e comunicazioni (base giuridica: legittimo interesse)\n• Garantire il corretto funzionamento del sito web (base giuridica: legittimo interesse)\n• Adempiere ad obblighi di legge (base giuridica: obbligo legale)\n\nNon utilizziamo i tuoi dati per finalità di marketing senza il tuo consenso esplicito."
+    },
+    "cookies": {
+      "title": "4. Cookie",
+      "content": "Questo sito non utilizza cookie di alcun tipo. Non utilizziamo cookie di profilazione, cookie analitici, cookie di tracciamento di terze parti né alcun altro tipo di cookie.\n\nLe preferenze linguistiche sono gestite tramite i percorsi URL e non richiedono cookie. Nessun dato viene memorizzato nel browser oltre a quanto il browser stesso memorizza nativamente nella cache."
+    },
+    "thirdParty": {
+      "title": "5. Comunicazione a Terzi",
+      "content": "Non vendiamo, scambiamo o trasferiamo i tuoi dati personali a terzi. Le tue informazioni possono essere condivise esclusivamente con fornitori di servizi di fiducia che assistono nella gestione del nostro sito web, a condizione che si impegnino a mantenere riservate tali informazioni e a rispettare il GDPR."
+    },
+    "retention": {
+      "title": "6. Conservazione dei Dati",
+      "content": "I dati personali raccolti tramite corrispondenza email sono conservati per il tempo necessario al perseguimento delle finalità sopra indicate, e in ogni caso per non più di 24 mesi dall'ultima interazione, salvo che un periodo di conservazione più lungo sia richiesto dalla legge."
+    },
+    "rights": {
+      "title": "7. I Tuoi Diritti",
+      "content": "Ai sensi del GDPR, hai il diritto di:\n\n• Accedere ai tuoi dati personali\n• Rettificare dati inesatti\n• Richiedere la cancellazione dei tuoi dati\n• Limitare il trattamento\n• Portabilità dei dati\n• Opporti al trattamento\n• Revocare il consenso in qualsiasi momento\n\nPer esercitare uno di questi diritti, contattaci all'indirizzo concierge@jnbprivate.com. Risponderemo entro 30 giorni."
+    },
+    "changes": {
+      "title": "8. Modifiche alla Presente Informativa",
+      "content": "Ci riserviamo il diritto di aggiornare la presente Informativa sulla Privacy in qualsiasi momento. Eventuali modifiche saranno pubblicate su questa pagina con la data di revisione aggiornata. Ti invitiamo a consultare periodicamente questa pagina."
+    },
+    "contact": {
+      "title": "9. Contatti",
+      "content": "Per qualsiasi domanda o dubbio riguardante la presente Informativa sulla Privacy o i tuoi dati personali, contatta:\n\nJNB Private\nCorso Italia, 2, 50123 Firenze (FI), Italia\nconcierge@jnbprivate.com"
+    }
+  }
+}
