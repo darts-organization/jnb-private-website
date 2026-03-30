@@ -211,6 +211,8 @@
     "submit": "Send Message",
     "sending": "Sending…",
     "success": "Message sent successfully. We will be in touch shortly.",
+    "successTitle": "Thank you for reaching out",
+    "successDescription": "Your message has been received. A member of our team will be in touch shortly.",
     "error": "Something went wrong. Please try again or email us directly."
   },
   "footer": {

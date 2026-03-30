@@ -39,6 +39,22 @@ export function ContactForm() {
   const inputClasses =
     "w-full bg-transparent border-b border-cream/20 px-0 py-3.5 font-body text-sm text-cream placeholder:text-cream/30 focus:border-gold/60 focus:outline-none transition-colors duration-300";
 
+  if (status === "success") {
+    return (
+      <motion.div
+        initial={{ opacity: 0, y: 16 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6, ease: "easeOut" }}
+        className="mx-auto max-w-lg py-12 text-center"
+      >
+        <div className="mx-auto mb-6 h-px w-16 bg-linear-to-r from-transparent via-gold to-transparent" />
+        <h3 className="font-display text-2xl italic text-cream tracking-wide">{t("successTitle")}</h3>
+        <p className="mt-4 font-body text-sm text-cream/50 leading-relaxed">{t("successDescription")}</p>
+        <div className="mx-auto mt-6 h-px w-16 bg-linear-to-r from-transparent via-gold to-transparent" />
+      </motion.div>
+    );
+  }
+
   return (
     <form onSubmit={handleSubmit} className="mx-auto max-w-lg space-y-8">
       {/* First name / Last name row */}
@@ -92,11 +108,17 @@ export function ContactForm() {
         </motion.button>
       </div>
 
-      {status === "success" && (
-        <p className="font-body text-sm text-gold/80">{t("success")}</p>
-      )}
       {status === "error" && (
-        <p className="font-body text-sm text-terracotta/80">{t("error")}</p>
+        <motion.div
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5, ease: "easeOut" }}
+          className="relative px-8 py-6 text-center"
+        >
+          <div className="absolute inset-x-0 top-0 mx-auto h-px w-16 bg-linear-to-r from-transparent via-terracotta to-transparent" />
+          <p className="font-display text-lg italic text-cream/90 tracking-wide">{t("error")}</p>
+          <div className="absolute inset-x-0 bottom-0 mx-auto h-px w-16 bg-linear-to-r from-transparent via-terracotta to-transparent" />
+        </motion.div>
       )}
     </form>
   );

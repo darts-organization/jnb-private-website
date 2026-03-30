@@ -211,6 +211,8 @@
     "submit": "Invia Messaggio",
     "sending": "Invio in corso…",
     "success": "Messaggio inviato con successo. Ti ricontatteremo a breve.",
+    "successTitle": "Grazie per averci contattato",
+    "successDescription": "Il tuo messaggio è stato ricevuto. Un membro del nostro team ti risponderà a breve.",
     "error": "Qualcosa è andato storto. Riprova o scrivici direttamente via email."
   },
   "footer": {
