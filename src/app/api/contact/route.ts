@@ -1,6 +1,6 @@
 import nodemailer from "nodemailer";
 
-const RECIPIENT = "studio.lucapizzarelli@gmail.com";
+const RECIPIENT = "concierge@jnbprivate.com";
 
 export async function POST(request: Request) {
   const body = await request.json();
@@ -28,7 +28,7 @@ export async function POST(request: Request) {
     await transporter.sendMail({
       from: `"JNB Private Website" <${process.env.SMTP_FROM}>`,
       replyTo: `"${name}" <${email}>`,
-      to: RECIPIENT,
+      to: "concierge@jnbprivate.com",
       subject: `New Contact Form — ${name}`,
       text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
       html: `
